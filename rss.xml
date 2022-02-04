@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Grand Twinkle | Feed]]></title><description><![CDATA[Grand Twinkle, Great Technology]]></description><link>https://grandtwinkle.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 04 Feb 2022 04:33:50 GMT</lastBuildDate><item><title><![CDATA[Welcome]]></title><description><![CDATA[Welcome to Grand Twinkle World]]></description><link>https://grandtwinkle.github.io/welcome/</link><guid isPermaLink="false">https://grandtwinkle.github.io/welcome/</guid><pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to Grand Twinkle World&lt;/p&gt;</content:encoded></item><item><title><![CDATA[겨울의 푸른 하늘]]></title><description><![CDATA[오랜만에 산에 올라 바라본 하늘.
-겨울에도 하늘은 푸르다.
-잎을 다 떨구고 봄을 준비하고 있는 나뭇가지들이 마치 모세혈관처럼 뻗어 있다.]]></description><link>https://grandtwinkle.github.io/winter-blue-sky.md/</link><guid isPermaLink="false">https://grandtwinkle.github.io/winter-blue-sky.md/</guid><pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Grand Twinkle | Feed]]></title><description><![CDATA[Grand Twinkle, Great Technology]]></description><link>https://grandtwinkle.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 04 Feb 2022 04:41:20 GMT</lastBuildDate><item><title><![CDATA[Welcome]]></title><description><![CDATA[Welcome to Grand Twinkle World]]></description><link>https://grandtwinkle.github.io/welcome/</link><guid isPermaLink="false">https://grandtwinkle.github.io/welcome/</guid><pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to Grand Twinkle World&lt;/p&gt;</content:encoded></item><item><title><![CDATA[겨울의 푸른 하늘]]></title><description><![CDATA[오랜만에 산에 올라 바라본 하늘. 겨울에도 하늘은 푸르다. 잎을 다 떨구고 봄을 준비하고 있는 나뭇가지들이 마치 모세혈관처럼 뻗어 있다.]]></description><link>https://grandtwinkle.github.io/winter-blue-sky.md/</link><guid isPermaLink="false">https://grandtwinkle.github.io/winter-blue-sky.md/</guid><pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
@@ -32,9 +30,9 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;오랜만에 산에 올라 바라본 하늘.
-겨울에도 하늘은 푸르다.
-잎을 다 떨구고 봄을 준비하고 있는 나뭇가지들이 마치 모세혈관처럼 뻗어 있다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Tag, 태그 게시물 예제]]></title><description><![CDATA[게시물에 태그를 지정할 수 있습니다. 해당 게시물의 Markdown YAML Front matter은 아래와 같습니다. 가이드의 Markdown YAML Front matter를 참고하세요. 자세한 가이드는 Documents를 확인해주세요.]]></description><link>https://grandtwinkle.github.io/tag-post-example/</link><guid isPermaLink="false">https://grandtwinkle.github.io/tag-post-example/</guid><pubDate>Sun, 24 Mar 1991 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;게시물에 태그를 지정할 수 있습니다.&lt;/p&gt;
+&lt;p&gt;오랜만에 산에 올라 바라본 하늘.&lt;/p&gt;
+&lt;p&gt;겨울에도 하늘은 푸르다.&lt;/p&gt;
+&lt;p&gt;잎을 다 떨구고 봄을 준비하고 있는 나뭇가지들이 마치 모세혈관처럼 뻗어 있다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Tag, 태그 게시물 예제]]></title><description><![CDATA[게시물에 태그를 지정할 수 있습니다. 해당 게시물의 Markdown YAML Front matter은 아래와 같습니다. 가이드의 Markdown YAML Front matter를 참고하세요. 자세한 가이드는 Documents를 확인해주세요.]]></description><link>https://grandtwinkle.github.io/tag-post-example/</link><guid isPermaLink="false">https://grandtwinkle.github.io/tag-post-example/</guid><pubDate>Sun, 24 Mar 1991 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;게시물에 태그를 지정할 수 있습니다.&lt;/p&gt;
 &lt;p&gt;해당 게시물의 Markdown YAML Front matter은 아래와 같습니다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;---
 title: Tag, 태그 게시물 예제
